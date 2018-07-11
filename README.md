@@ -5,6 +5,9 @@ Considere	um	quebra	cabeça	cripto-aritmético	(ver	exemplo	abaixo).	Nestes	queb
 Exemplo:
 
 SEND 
+
 MORE +
+
 --------
+
 MONEY
